@@ -1,0 +1,105 @@
+{
+  "shortDescription": "Test your knowledge of cryptocurrency with this quiz.",
+  "questions": [
+    {
+      "question": "What is Bitcoin?",
+      "answers": ["Coin", "Token", "Asset"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What does 'HODL' mean?",
+      "answers": ["Hold", "Trade", "Sell"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which is the second-largest crypto?",
+      "answers": ["Ethereum", "Litecoin", "Ripple"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a blockchain?",
+      "answers": ["Ledger", "Coin", "Wallet"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is DeFi?",
+      "answers": ["Finance", "Exchange", "Mining"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is an ICO?",
+      "answers": ["Crowdfunding", "Trading", "Wallet"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which is the largest stablecoin?",
+      "answers": ["USDT", "USD", "USDC"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Ethereum used for?",
+      "answers": ["Smart Contracts", "Mining", "Lending"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What does PoW stand for?",
+      "answers": ["Proof of Work", "Proof of Wallet", "Proof of Web"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is staking?",
+      "answers": ["Locking Coins", "Trading Coins", "Buying Coins"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which coin is known as 'digital gold'?",
+      "answers": ["Bitcoin", "Litecoin", "Dogecoin"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a hard fork?",
+      "answers": ["Blockchain Update", "Coin Swap", "New Coin"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a wallet?",
+      "answers": ["Storage", "Mining", "Coin"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is an airdrop?",
+      "answers": ["Free Coins", "New Tokens", "Coin Swap"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which is the most popular NFT platform?",
+      "answers": ["OpenSea", "Rarible", "SuperRare"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a smart contract?",
+      "answers": ["Code", "Coin", "Miner"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a miner?",
+      "answers": ["Validator", "Trader", "Wallet"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is an altcoin?",
+      "answers": ["Alternative Coin", "Bitcoin", "New Coin"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a DEX?",
+      "answers": ["Decentralized Exchange", "Digital Exchange", "Coin Swap"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a gas fee?",
+      "answers": ["Transaction Fee", "Mining Fee", "Coin Fee"],
+      "correctAnswerIndex": 0
+    }
+  ]
+}
